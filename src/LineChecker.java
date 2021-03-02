@@ -1,6 +1,6 @@
 /**
  * LineChecker --- run a series of tests on a potential line
- * to determine whether the line it fit to be in final haiku
+ * to determine whether the line is fit to be in final haiku
  * @author    Saralin Zassman
  */
 import java.util.ArrayList;
