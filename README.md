@@ -4,6 +4,7 @@ The Haiku Generator is fed a series of pre-existing poems, and uses Markov chain
 To start generating haikus, run HaikuMain.java
 Note: Run FileAdjustments.java if changes to the poem.txt file are made (or if you create your own list of poems to generate the haikus from)
 
+# Acknowledgement 
 MarkovChain.java : open source code from https://rosettacode.org/wiki/Markov_chain_text_generator, under GNU Free Documentation License 1.2
 
 SyllableCounter.java : from https://github.com/wfreitag/syllable-counter-java
