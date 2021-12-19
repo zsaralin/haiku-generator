@@ -8,3 +8,6 @@ Note: Run FileAdjustments.java if changes to the poem.txt file are made (or if y
 MarkovChain.java : open source code from https://rosettacode.org/wiki/Markov_chain_text_generator, under GNU Free Documentation License 1.2
 
 SyllableCounter.java : from https://github.com/wfreitag/syllable-counter-java
+
+https://user-images.githubusercontent.com/56806432/146665402-f4ce987d-9fb2-43fe-9c44-130d9311c9b9.mp4
+
